@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Alexsander Iloy 👋
 
-<!--
-**AlexsanderFerreira/AlexsanderFerreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-Here are some ideas to get you started:
+🔭 I'm currently working as a Jr IT Analyst at Cerâmica 
+Carmelo Fior
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I'm currently learning python, SQL, DAX, Data Analysis and English
+## Contact Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=flat&logo=linkedin)]([https://www.linkedin.com/in/wilianuhlmann/](https://www.linkedin.com/in/alexsander-ferreira-a41037120/))
