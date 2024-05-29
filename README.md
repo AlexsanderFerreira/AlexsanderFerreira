@@ -8,6 +8,6 @@
 🔭 I'm currently working as a Jr IT Analyst at Cerâmica 
 Carmelo Fior
 
-🌱 I'm currently learning python, SQL, DAX, Data Analysis and English
+🌱 I'm currently learning  English, Python, SQL, DAX, Data Analysis
 ## Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=flat&logo=linkedin)]([https://www.linkedin.com/in/wilianuhlmann/](https://www.linkedin.com/in/alexsander-ferreira-a41037120/))
