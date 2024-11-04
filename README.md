@@ -7,8 +7,7 @@
 🔭 I'm currently working as a Jr IT Analyst at Cerâmica 
 Carmelo Fior
 
-🌱 I'm currently learning  English, Python, SQL, DAX, Power BI and Data Analysis
-
+🌱 I'm currently learning Python and have developed a strong interest in building applications. Additionally, I'm eager to expand my knowledge in AI and Data Analysis. My goal is to reach an advanced level in Python, mastering the language while continually striving for growth and improvement.
 
 ## Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=flat&logo=linkedin)]([https://www.linkedin.com/in/wilianuhlmann/](https://www.linkedin.com/in/alexsander-ferreira-a41037120/))
